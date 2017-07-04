@@ -10,7 +10,7 @@ You can read this book on [https://xapax.gitbooks.io/security/content/](https://
 
 ## Find practical examples
 
-If you read about a vulnerability that you want to know more about I can really recommend searching for in on HackerOne via google. It is a good way to find real life examples of vulnerabilities.
+If you read about a vulnerability that you want to know more about I can really recommend searching for it on HackerOne via google. It is a good way to find real life examples of vulnerabilities.
 
 Here is an example of such a search:
 
